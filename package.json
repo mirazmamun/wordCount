@@ -1,0 +1,24 @@
+{
+  "name": "wordCount",
+  "version": "0.0.0",
+  "description": "Count the words in a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mirazmamun/wordCount"
+  },
+  "keywords": [
+    "word",
+    "count",
+    "nodejs"
+  ],
+  "author": "Miraz Al-Mamun <mirazalmamun@gmail.com> (http://mirazalmamun.wordpress.com/)",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/mirazmamun/wordCount/issues"
+  },
+  "homepage": "https://github.com/mirazmamun/wordCount"
+}
